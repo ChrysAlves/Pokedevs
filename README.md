@@ -31,6 +31,11 @@ Pokedevs/
 │       └── index.js
 └── README.md
 ```
+RESULTADO:
+https://github.com/user-attachments/assets/9463d047-0f1d-4eba-943c-b7096f7b8dc0
+
+
+
 
 ## 🎮 Como Usar
 
