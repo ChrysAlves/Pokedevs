@@ -1,4 +1,8 @@
 
+
+
+https://github.com/user-attachments/assets/03ef44db-1ffb-4c97-92f2-0b17bbaabe41
+
 # Pokedevs
 
 Uma aplicação web interativa que apresenta personagens Pokémon temáticos para desenvolvedores, cada um representando diferentes perfis e características do mundo da programação.
@@ -31,9 +35,6 @@ Pokedevs/
 │       └── index.js
 └── README.md
 ```
-RESULTADO:
-https://github.com/user-attachments/assets/9463d047-0f1d-4eba-943c-b7096f7b8dc0
-
 
 
 
